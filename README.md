@@ -1,7 +1,7 @@
 # Persistencia Gloranta
 Persistencia del enunciado 2: "Gloranta"
 Integrantes:
-- Tomás Eitan Pododolsky
+- Tomás Eitan Podolsky
 - Federico Nimiczynicer
 - Federico Matías Gallardo
 - Nicolás Iván Katz
