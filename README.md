@@ -1,1 +1,2 @@
-# persistencia2
+# Persistencia Gloranta
+Persistencia del enunciado 2: "Gloranta"
